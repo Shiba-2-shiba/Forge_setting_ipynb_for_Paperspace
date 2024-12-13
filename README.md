@@ -1,4 +1,4 @@
-# setting_ipynb_for_Paperspace
+# Forge_setting_ipynb_for_Paperspace
 このリポジトリはPaperspaceで、私がカスタムしたDocerイメージを使用したものを前提としています。
 
 ##Paperspaceで使用する Docker イメージ

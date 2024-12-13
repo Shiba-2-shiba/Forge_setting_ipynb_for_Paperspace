@@ -17,13 +17,9 @@ https://editor.note.com/notes/nb2913ed01a79/edit/
 ## 使用方法
 
 Paperspaceのセルコマンドの実行もしくはターミナルでコマンドを実行して、このリポジトリに公開されているipynbファイルをダウンロードして、ipynbファイル内のコマンドを実行することでForgeを簡単に起動することができます。
+
 手動でノートブックディレクトリに、このリポジトリに公開されているipynbファイルをアップロードして使用しても同様のことができます。
 
-以下のコマンドを Jupyter Notebook のセルにコピーして実行してください：
+詳細は先ほどのURLの記事に記載しています。
 
-```python
-%cd /notebooks
-!wget -r -np -nd -A "*.ipynb" -P ipynb_files https://raw.githubusercontent.com/Shiba-2-shiba/setting_ipynb_for_Paperspace/main/
-
-```
 ノートブックディレクトリに配置されたら、そのセルコマンドを個々でカスタムして使いやすくしてください。

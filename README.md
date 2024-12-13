@@ -1,9 +1,9 @@
 # setting_ipynb_for_Paperspace
 このリポジトリはPaperspaceで、私がカスタムしたDocerイメージを使用したものを前提としています。
 
-## Docker イメージ
+##Paperspaceで使用する Docker イメージ
 
-以下の Docker イメージを使用してください：
+以下の Docker イメージをPaperspaceのコンテナの部分に入力して使用してください：
 
 ```bash
 shibashiba2/paperspace-gradient-base-pytorch241:v6

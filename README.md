@@ -15,5 +15,5 @@ Paperspaceのセルコマンドの実行もしくはターミナルでコマン�
 %cd /notebooks
 !wget -r -np -nd -A "*.ipynb" -P ipynb_files https://raw.githubusercontent.com/Shiba-2-shiba/setting_ipynb_for_Paperspace/main/
 
-
+```
 ノートブックディレクトリに配置されたら、そのセルコマンドを個々でカスタムして使いやすくしてください。

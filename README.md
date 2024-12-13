@@ -11,7 +11,7 @@ shibashiba2/paperspace-gradient-base-pytorch241:v7
 
 Dockerイメージを使用する方法については、以下のURLを参考にしてください。
 
-https://editor.note.com/notes/nb2913ed01a79/edit/
+https://note.com/gentle_murre488/n/nb2913ed01a79
 
 
 ## 使用方法

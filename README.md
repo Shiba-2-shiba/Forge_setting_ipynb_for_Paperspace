@@ -23,3 +23,10 @@ Paperspaceのセルコマンドの実行もしくはターミナルでコマン�
 詳細は先ほどのURLの記事に記載しています。
 
 ノートブックディレクトリに配置されたら、そのセルコマンドを個々でカスタムして使いやすくしてください。
+
+## 使用動画デモ
+
+以下は動作デモのGIFです：
+
+![デモ動画](https://github.com/Shiba-2-shiba/Forge_setting_ipynb_for_Paperspace/blob/main/example.gif)
+

@@ -22,7 +22,7 @@
         },
         {
             "name": "SD Forge Deforum",
-            "url": "https://github.com/Tok/sd-forge-deforum",
+            "url": "https://github.com/Tok/sd-forge-deforum?ref=dev",
             "description": "An extension to enhance Deforum functionality in Stable Diffusion.",
             "added": "2024-12-16",
             "tags": [
